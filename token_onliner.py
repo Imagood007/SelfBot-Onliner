@@ -1,9 +1,9 @@
 import discord
 from discord import Client, Status
-status = "online, dnd, idle, invisible"
-name = "the name of your status"
-emoji = "the emoji of your status"
-token = "your token"
+status = "online"
+name = "King 👑"
+emoji = "💕"
+token = "MTQ2MjkwNTM3MjQ1MTkzNDI5OQ.GS39d-.CYTdcHVqolU734BBPygNykEfR9wtrErk_hylgU"
 from datetime import datetime
 from colorama import Fore, Back, Style
 client = Client(self_bot=True)
